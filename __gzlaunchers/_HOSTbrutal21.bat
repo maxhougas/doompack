@@ -1,6 +1,7 @@
 @start ..\gzdoom\gzdoom.exe ^
  +set sv_coopsharekeys 1 ^
  +set sv_noplayerclip 1 ^
+ +set playerclass "Tactical (Sprints, Recoil)" ^
  -iwad ^
   DOOM.wad ^
  -file ^
@@ -14,6 +15,10 @@
   DEP\HDTextures.pk3 ^
   ^
   marcel\marcelus_hd_sprites.pk3 ^
+  ^
+  light\darkdoomz.pk3 ^
+  ^
+  light\darkdoomz.pk3 ^
   ^
  -config .\gzdoom.ini ^
  -host 2 

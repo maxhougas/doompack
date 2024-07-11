@@ -9,6 +9,8 @@
 - -join [IP:PORT] specifies the host and port to connect to
 - -config [CONFIG_FILE] specifies the config file to use
 - -warp [MAP] OR -warp [E M] specifies the map to start on
+- -skill [X] specifies the difficulty level
+- -loadgame [SAVEFILE] specifies the save file to load
 
 # NOTES
 - +set *must* go above everything else
