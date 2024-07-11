@@ -13,6 +13,6 @@
 # NOTES
 - +set *must* go above everything else
 - darkdoomz *must* load before relighting
-- relighting does not like multiplayer'
+- relighting does not like multiplayer
 - Depending on the mods in question sometimes load order matters and sometimes it does not
 - Wadsmoosh (if you use it) does not play nice with DEP\SmoothWeapons
