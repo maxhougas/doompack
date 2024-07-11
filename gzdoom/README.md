@@ -1,1 +1,2 @@
-# The portable version of GZDoom from https://www.zdoom.org/downloads will go here
+# The portable version of GZDoom will go here
+- https://www.zdoom.org/downloads
