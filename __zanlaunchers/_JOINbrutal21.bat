@@ -13,6 +13,6 @@
  -optfile ^
   brutalrec\IDKFAv2.wad^
   DEP\HDTextures.pk3 ^
- -config .\zandronum.ini ^
+ -config .\Client.ini ^
  -connect 26.17.117.77
  

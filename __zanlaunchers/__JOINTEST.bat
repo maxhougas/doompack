@@ -4,18 +4,8 @@
  -file ^
   brutalrec\brutalv21.pk3 ^
   ^
-  SIGIL\SIGIL_SHREDS.wad ^
-  SIGIL\SIGIL_v1_21.wad ^
-  SIGIL\SIGIL_II_V1_0.WAD ^
-  ^
-  marcel\marcelus_hd_sprites.pk3 ^
-  ^
- -optfile ^
-  brutalrec\IDKFAv2.wad^
-  DEP\HDTextures.pk3 ^
-  ^
- -config .\zandronum.ini ^
- -connect 26.17.117.77:10667
+ -config .\Czandronum.ini ^
+ -connect 26.17.117.77
  
  brutalrec\brutalv21.pk3
  brutalrec\brutalv22test3.pk3

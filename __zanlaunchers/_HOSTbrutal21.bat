@@ -1,6 +1,8 @@
 @start ..\zandronum\zandronum.exe ^
  +sv_coopsharekeys 1 ^
  +sv_noplayerclip 1 ^
+ +sv_jump 2 ^
+ +sv_crouch 2 ^
  -iwad ^
   DOOM.wad ^
  -file ^
@@ -15,6 +17,6 @@
  -optfile ^
   brutalrec\IDKFAv2.wad^
   DEP\HDTextures.pk3 ^
- -config .\zandronum.ini ^
+ -config .\Server.ini ^
  -host 4 
  
