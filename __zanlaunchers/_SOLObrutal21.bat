@@ -1,7 +1,4 @@
 @start ..\zandronum\zandronum.exe ^
- +set sv_coopsharekeys 1 ^
- +set sv_noplayerclip 1 ^
- +set playerclass "Tactical (Sprints, Recoil)" ^
  -iwad ^
   DOOM.wad ^
  -file ^
@@ -12,5 +9,10 @@
   SIGIL\SIGIL_v1_21.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
   ^
+  marcel\marcelus_hd_sprites.pk3 ^
+  ^
+ -optfile ^
+  brutalrec\IDKFAv2.wad^
+  DEP\HDTextures.pk3 ^
  -config .\zandronum.ini
  
