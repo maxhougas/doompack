@@ -1,6 +1,6 @@
 @start ..\zandronum\zandronum.exe ^
  -iwad ^
-  DOOM.wad ^
+  DOOM2.wad ^
  -file ^
   ^
   NERVE.wad ^
@@ -15,9 +15,9 @@
   brutalrec\DoomMetalVol5.wad ^
   SIGIL\SIGIL_SHREDS.wad ^
   DEP\HDTextures.pk3 ^
+    SmoothDoom.pk3  ^
   ^
- -config .\Client.ini ^
- -connect 26.17.117.77
+ -config .\Client.ini
  
 
  

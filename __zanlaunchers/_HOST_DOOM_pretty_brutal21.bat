@@ -1,21 +1,20 @@
 @start ..\zandronum\zandronum.exe ^
+ +set sv_sharekeys true ^
+ +set sv_unblockplayers true ^
+ +set sv_jump 2 ^
+ +set sv_crouch 2 ^
  -iwad ^
   DOOM.wad ^
  -file ^
   brutalrec\brutalv21.pk3 ^
   ^
-  SIGIL\SIGIL_SHREDS.wad ^
   SIGIL\SIGIL_v1_21.wad ^
+  SIGIL\SIGIL_SHREDS.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
   ^
   marcel\marcelus_hd_sprites.pk3 ^
   ^
-  light\darkdoomz.pk3 ^
-  ^
- -optfile ^
-  brutalrec\IDKFAv2.wad^
-  DEP\HDTextures.pk3 ^
-  ^
- -config .\Client.ini ^
- -connect 26.17.117.77
- 
+ -config .\Server.ini ^
+ -host 4 ^
+ -skill 3 ^
+ -warp 1
