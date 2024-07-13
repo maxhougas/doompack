@@ -7,6 +7,7 @@
 ## Command line notes
 - use -connect instead of -join
 - marcelus_hd_sprites must be a -file insetad of -optfile
+- stuff will work in single player and not in multiplayer like darkdoomz
 - sv_unblockplayers lets players pass through each other
 - sv_sharkeys gives a copy of each key to each player upon pickup
 - SIGIL and SIGIL II block jumping and crouching. Setting sv_crouch and sv_jump to 2 resolves this
@@ -22,3 +23,6 @@
 ## Known incompatibilities
 - SmoothDoom.pk3
 - DEP\Materials.pk3
+- light\relighting.pk3
+- light\darkdoomz.pk3
+- DEP\HDSmoothWeapons.pk3 (runs but doesn't function)
