@@ -16,7 +16,7 @@
 - -iwad [IWAD] will specify the IWAD to run. Server and client.
 - -optfile [PATCH WADS] specifies option patches [PATCH] and [WADS]. Think music and textures. Client only.
 - -warp [LEVEL] OR -warp [E M] will start the game on level [LEVEL] or e[E]m[M]. Server only.
-- -connect [IP:PORT] attempts to connect to a server at [IP] on [PORT]. Cient only.
+- -connect [IP:PORT] attempts to connect to a server at [IP] optionally on [PORT]. Cient only.
 - -port [PORT] binds the server to [PORT] instead of the default (10666). Server only.
 - -skill [DIFFICULTY] starts the game with difficulty [DIFFICULTY]. Server only.
 
@@ -26,3 +26,4 @@
 - light\relighting.pk3
 - light\darkdoomz.pk3
 - DEP\HDSmoothWeapons.pk3 (runs but doesn't function)
+- DEP\CustomSounds.pk3 (runs but doesn't function)
