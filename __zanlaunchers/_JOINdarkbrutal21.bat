@@ -10,11 +10,12 @@
   ^
   marcel\marcelus_hd_sprites.pk3 ^
   ^
-  light\darkdoomz.pk3
+  light\darkdoomz.pk3 ^
   ^
  -optfile ^
   brutalrec\IDKFAv2.wad^
   DEP\HDTextures.pk3 ^
+  ^
  -config .\Client.ini ^
  -connect 26.17.117.77
  
