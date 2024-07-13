@@ -12,13 +12,14 @@
 - sv_sharkeys gives a copy of each key to each player upon pickup
 - SIGIL and SIGIL II block jumping and crouching. Setting sv_crouch and sv_jump to 2 resolves this
 - -host [NUMPLAYERS] starts a server that will accomodate [NUMPLAYERS]. Server only.
-- -file [PATCH WADS] specifies non-optional patches [PATCH] and [WADS]. Server and client.
-- -iwad [IWAD] will specify the IWAD to run. Server and client.
-- -optfile [PATCH WADS] specifies option patches [PATCH] and [WADS]. Think music and textures. Client only.
-- -warp [LEVEL] OR -warp [E M] will start the game on level [LEVEL] or e[E]m[M]. Server only.
-- -connect [IP:PORT] attempts to connect to a server at [IP] optionally on [PORT]. Cient only.
 - -port [PORT] binds the server to [PORT] instead of the default (10666). Server only.
 - -skill [DIFFICULTY] starts the game with difficulty [DIFFICULTY]. Server only.
+- -warp [LEVEL] OR -warp [E M] will start the game on level [LEVEL] or e[E]m[M]. Server only.
+- -iwad [IWAD] will specify the IWAD to run. Server and client.
+- -file [PATCH WADS] specifies non-optional patches [PATCH] and [WADS]. Server and client.
+- -optfile [PATCH WADS] specifies option patches [PATCH] and [WADS]. Think music and textures. Client only.
+- -connect [IP:PORT] attempts to connect to a server at [IP] optionally on [PORT]. Cient only.
+
 
 ## Known incompatibilities
 - SmoothDoom.pk3
