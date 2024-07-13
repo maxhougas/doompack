@@ -8,7 +8,7 @@
  -file ^
   brutalrec\brutalv21.pk3 ^
   ^
- -config .\Szandronum.ini ^
+ -config .\Server.ini ^
  -host 1 
 
  brutalrec\brutalv21.pk3

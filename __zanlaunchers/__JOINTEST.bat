@@ -4,7 +4,7 @@
  -file ^
   brutalrec\brutalv21.pk3 ^
   ^
- -config .\Czandronum.ini ^
+ -config .\Client.ini ^
  -connect 26.17.117.77
  
  brutalrec\brutalv21.pk3
