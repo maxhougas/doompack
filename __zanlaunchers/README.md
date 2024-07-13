@@ -20,7 +20,6 @@
 - -optfile [PATCH WADS] specifies option patches [PATCH] and [WADS]. Think music and textures. Client only.
 - -connect [IP:PORT] attempts to connect to a server at [IP] optionally on [PORT]. Cient only.
 
-
 ## Known incompatibilities
 - SmoothDoom.pk3
 - DEP\Materials.pk3
