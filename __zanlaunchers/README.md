@@ -18,3 +18,7 @@
 - -connect [IP:PORT] attempts to connect to a server at [IP] on [PORT]. Cient only.
 - -port [PORT] binds the server to [PORT] instead of the default (10666). Server only.
 - -skill [DIFFICULTY] starts the game with difficulty [DIFFICULTY]. Server only.
+
+## Known incompatibilities
+- SmoothDoom.pk3
+- DEP\Materials.pk3
