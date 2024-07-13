@@ -3,14 +3,13 @@
  +set sv_unblockplayers true ^
  +set sv_jump 2 ^
  +set sv_crouch 2 ^
- -iwad ^
-  DOOM.wad ^
+ -iwad DOOM.wad ^
  -file ^
-  brutalrec\brutalv21.pk3 ^
   ^
   SIGIL\SIGIL_v1_21.wad ^
-  SIGIL\SIGIL_SHREDS.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
+  ^
+  brutalrec\brutalv21.pk3 ^
   ^
   marcel\marcelus_hd_sprites.pk3 ^
   ^
