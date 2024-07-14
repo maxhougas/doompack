@@ -10,4 +10,5 @@ cd ..\SIGIL
 start getwads.bat
 cd ..\..\IWADS
 start getwads.bat
-
+cd ..\zandronum
+start getzan.bat
