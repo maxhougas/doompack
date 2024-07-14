@@ -1,5 +1,5 @@
 @start ..\zandronum\zandronum.exe ^
- -iwad DOOM2.wad ^
+ -iwad DOOM2.WAD ^
  -file ^
   ^
   NERVE.wad ^
