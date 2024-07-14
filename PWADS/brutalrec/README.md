@@ -1,5 +1,6 @@
 # BrutalDOOM v21 and 22 go here
 - https://www.moddb.com/mods/brutal-doom/downloads
+- https://www.moddb.com/mods/brutal-doom/downloads/brutal-doom-v21-beta
 - https://www.moddb.com/mods/brutal-doom/addons/bd21ledgegrabber
 - https://www.moddb.com/mods/brutal-doom/downloads/doom-metal-soundtrack-mod-volume-5
 - https://www.moddb.com/mods/brutal-doom/addons/idkfa-doom-soundtrack

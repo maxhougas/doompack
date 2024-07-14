@@ -10,3 +10,5 @@
 - Everything from the Doom Enhancement project goes in PWADS\DEP
 - BrutalDoom and companion mods go in PWADS\brutalrec
 - SIGIL, SIGIL II, and related files go in PWADS\SIGIL
+- You will probably need 7zip https://7-zip.org/
+- Install it to C:\Program Files\7zip\
