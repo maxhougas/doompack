@@ -12,6 +12,9 @@
 - SIGIL, SIGIL II, and related files go in PWADS\SIGIL
 - You *will* need 7zip https://7-zip.org/
 - Install it to C:\Program Files\7zip\
+- You may need to install a VPN:
+- - https://www.radmin-vpn.com/
+- - https://vpn.net/
 
 ## HOW TO
 - Install 7zip
