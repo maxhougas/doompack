@@ -19,6 +19,6 @@
 
 ## HOW TO
 - Install 7zip
-- Run doompack/getstuff.bat
+- Run getstuff.bat
 - You should now have everything you need to run __zanlaunchers/_SOLO_FREE1_brutal21.bat
 - Some large files are not included in the auto download IDKFAv2 is 700 megs :|
