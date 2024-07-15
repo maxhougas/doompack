@@ -1,8 +1,6 @@
 @start ..\zandronum\zandronum.exe ^
  -iwad freedoom1.wad ^
  -file ^
-  NERVE.wad ^
-  ^
   SIGIL\SIGIL_v1_21.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
   ^
@@ -13,8 +11,6 @@
  -optfile ^
   brutalrec\DoomMetalVol5.wad ^
   SIGIL\SIGIL_SHREDS.wad ^
-  ^
-  marcel\marcelus_hd_sprites.pk3 ^
   ^
  -config .\Client.ini ^
  -connect 26.17.117.77
