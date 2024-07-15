@@ -11,7 +11,8 @@
 - BrutalDoom and companion mods go in PWADS\brutalrec
 - SIGIL, SIGIL II, and related files go in PWADS\SIGIL
 - You *will* need 7zip https://7-zip.org/
-- Install it to C:\Program Files\7zip\
+- - Install it to C:\Program Files\7zip\
+- - You'll need to manually unpack archives otherwise
 - You may need to install a VPN:
 - - https://www.radmin-vpn.com/
 - - https://vpn.net/
