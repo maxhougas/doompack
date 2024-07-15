@@ -5,6 +5,7 @@
  +set sv_crouch 2 ^
  -iwad freedoom1.wad ^
  -file ^
+  NERVE.WAD ^
   ^
   SIGIL\SIGIL_v1_21.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
@@ -15,5 +16,5 @@
   ^
  -config .\Server.ini ^
  -host 4 ^
- -skill 3 ^
+ -skill 4 ^
  -warp 1

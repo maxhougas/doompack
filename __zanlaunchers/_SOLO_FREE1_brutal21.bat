@@ -5,8 +5,8 @@
  +set sv_crouch 2 ^
  -iwad freedoom1.wad ^
  -file ^
+  NERVE.WAD ^
   ^
-  NERVE.wad ^
   SIGIL\SIGIL_v1_21.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
   ^

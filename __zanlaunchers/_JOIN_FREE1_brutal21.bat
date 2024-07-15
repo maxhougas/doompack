@@ -1,7 +1,6 @@
 @start ..\zandronum\zandronum.exe ^
  -iwad freedoom1.wad ^
  -file ^
-  ^
   NERVE.wad ^
   SIGIL\SIGIL_v1_21.wad ^
   SIGIL\SIGIL_II_V1_0.WAD ^
