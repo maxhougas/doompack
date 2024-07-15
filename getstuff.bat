@@ -12,3 +12,16 @@ cd ..\..\IWADS
 start getwads.bat
 cd ..\zandronum
 start getzan.bat
+start exzan.bat
+cd ..\PWADS\brutalrec
+start exwads.bat
+cd ..\DEP
+start exwads.bat
+cd ..\light
+start exwads.bat
+cd ..\marcel
+start exwads.bat
+cd ..\SIGIL
+start exwads.bat
+cd ..\..\IWADS
+start exwads.bat
