@@ -1,10 +1,9 @@
-@start ..\zandronum\zandronum.exe ^
- -iwad freedoom1.wad ^
+@start ..\zandronum\zandronum.exe 
  +set sv_sharekeys true ^
  +set sv_unblockplayers true ^
- +set sv_shootthroughallies true ^
  +set sv_jump 2 ^
  +set sv_crouch 2 ^
+ -iwad freedoom1.wad ^
  -file ^
   ^
   NERVE.wad ^
