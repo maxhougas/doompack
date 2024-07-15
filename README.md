@@ -22,3 +22,10 @@
 - Run getstuff.bat
 - You should now have everything you need to run __zanlaunchers/_SOLO_FREE1_brutal21.bat
 - Some large files are not included in the auto download IDKFAv2 is 700 megs :|
+
+## THE MODLIST
+- The IWAD of choice and any additional level packs
+- brutalrec\brutalv21.pk3
+- brutalrec\BD21LedgeGrabber.pk3
+- brutalrec\BD21LedgeGrabber_SMGPatch.pk3
+- marcel\marcelus_hd_sprites.pk3
