@@ -20,7 +20,7 @@
   - freedoom2.wad, (level names will conflict if freedoom1 & 2 are not loaded first)
   - DOOM.WAD, SIGIL_V1_21.WAD, SIGIL_II_V1_0.WAD,
   - DOOM2.WAD, NERVE.WAD, TNT.WAD, and PLUTONIA.WAD
-- File names from freedoom1 & 2 will conflict with DOOM and DOOM II
+- DOOM.WAD and DOOM2.WAD must be loaded last due to file name collisions
 - FSMOOSH_GZ.pk3 makes minor updates for GZDoom users
 
 ### CODE
@@ -28,9 +28,10 @@
 @start <EXE> ^
 -iwad freedoom1.wad
 -file ^
-  freedoom2.wad ^
-  DOOM.WAD SIGIL\SIGIL_V1_21.WAD SIGIL\SIGIL_II_V1_0.WAD ^
-  DOOM2.WAD NERVE.WAD TNT.WAD PLUTONIA.WAD ^
+  freedoom1.wad freedoom2.wad ^
+  NERVE.WAD TNT.WAD PLUTONIA.WAD ^
+  DOOM.WAD DOOM2.WAD ^
+  SIGIL\SIGIL_V1_21.WAD SIGIL\SIGIL_II_V1_0.WAD ^
   brutalrec\brutalv21.pk3 ^
   FSMOOSH\FSMOOSHv3.pk3^
 ```
