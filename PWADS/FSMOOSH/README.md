@@ -21,6 +21,7 @@
   - DOOM.WAD, SIGIL_V1_21.WAD, SIGIL_II_V1_0.WAD,
   - DOOM2.WAD, NERVE.WAD, TNT.WAD, and PLUTONIA.WAD
 - File names from freedoom1 & 2 will conflict with DOOM and DOOM II
+- FSMOOSH_GZ.pk3 makes minor updates for GZDoom users
 
 ### CODE
 ```bash
@@ -31,5 +32,5 @@
   DOOM.WAD SIGIL\SIGIL_V1_21.WAD SIGIL\SIGIL_II_V1_0.WAD ^
   DOOM2.WAD NERVE.WAD TNT.WAD PLUTONIA.WAD ^
   brutalrec\brutalv21.pk3 ^
-  FSMOOSH\FSMOOSHv3.pk3 ^
+  FSMOOSH\FSMOOSHv3.pk3^
 ```
