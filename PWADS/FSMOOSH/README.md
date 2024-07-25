@@ -4,8 +4,10 @@
   - Put .WADs from WADSMOOSH into /maps (https://jp.itch.io/wadsmoosh)
   - Put the usual Master Levels .WADs into /maps as well.
   - Remove the _E from the file name
-  - Data from DOOM.WAD and DOOM2.WAD do not *need* do be added
+  - Data from DOOM.WAD and DOOM2.WAD do not *need* do be added, but should be
   - Data from freedoom1.wad and freedoom2.wad are already included.
+- Load the assets from the original IWADS.
+- The order of the load will determine how collisions are resolved.
 
 ## TEETH.WAD
 - TEETH.WAD contains two levels, The Express Elevator to Hell and Bad Dream
