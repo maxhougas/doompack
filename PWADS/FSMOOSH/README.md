@@ -19,7 +19,7 @@
 - Use freedoom1.wad as the iwad
 - Import:
   - brutalv21.pk3, (just use the .ipk3 from wadsmoosh if you don't want to play BrutalDOOM)
-  - freedoom2.wad, (level names will conflict if freedoom1 & 2 are not loaded first)
+  - freedoom2.wad, CHEX3.WAD, (level names will conflict if freedoom1 & 2 are not loaded first)
   - DOOM.WAD, SIGIL_V1_21.WAD, SIGIL_II_V1_0.WAD,
   - DOOM2.WAD, NERVE.WAD, TNT.WAD, and PLUTONIA.WAD
 - DOOM.WAD and DOOM2.WAD must be loaded last due to file name collisions
@@ -32,7 +32,7 @@
 -file ^
   freedoom1.wad freedoom2.wad ^
   NERVE.WAD TNT.WAD PLUTONIA.WAD ^
-  DOOM.WAD DOOM2.WAD ^
+  CHEX3.WAD DOOM.WAD DOOM2.WAD ^
   SIGIL\SIGIL_V1_21.WAD SIGIL\SIGIL_II_V1_0.WAD ^
   brutalrec\brutalv21.pk3 ^
   FSMOOSH\FSMOOSHv3.pk3^
@@ -42,3 +42,4 @@
 - chex3.wad redefines the colored keys in a way that conficst with brutalv21
 - It also has a TEXTCOLOR lump that will yutz with the menus
 - You can remove the LOCKDEFS (#425) and TEXTCOLO (#421) lumps with SLADE or play with missing textures
+- This issue has been resolved as of v4
