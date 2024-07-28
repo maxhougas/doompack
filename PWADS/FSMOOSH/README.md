@@ -43,3 +43,4 @@
 - It also has a TEXTCOLOR lump that will yutz with the menus
 - You can remove the LOCKDEFS (#425) and TEXTCOLO (#421) lumps with SLADE or play with missing textures
 - This issue has been resolved as of v4
+- The DECORATE lump seems to add Chex Quest sounds to all enemies. Possibly remove it.
