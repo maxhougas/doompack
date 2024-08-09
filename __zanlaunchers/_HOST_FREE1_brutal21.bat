@@ -1,8 +1,4 @@
 @start ..\zandronum\zandronum.exe ^
- +set sv_sharekeys true ^
- +set sv_unblockplayers true ^
- +set sv_jump 2 ^
- +set sv_crouch 2 ^
  -iwad freedoom1.wad ^
  -file ^
   SIGIL\SIGIL_v1_21.wad ^
@@ -14,5 +10,4 @@
   ^
  -config .\Server.ini ^
  -host 4 ^
- -skill 4 ^
- -warp 1
+ -exec .\cjf.cfg

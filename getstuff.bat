@@ -1,7 +1,5 @@
 cd PWADS\brutalrec
 call getwads.bat
-cd ..\DEP
-call getwads.bat
 cd ..\light
 call getwads.bat
 cd ..\marcel
@@ -14,8 +12,6 @@ cd ..\zandronum
 call getzan.bat
 call exzan.bat
 cd ..\PWADS\brutalrec
-call exwads.bat
-cd ..\DEP
 call exwads.bat
 cd ..\light
 call exwads.bat

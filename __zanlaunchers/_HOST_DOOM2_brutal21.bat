@@ -1,8 +1,4 @@
 @start ..\zandronum\zandronum.exe ^
- +set sv_sharekeys true ^
- +set sv_unblockplayers true ^
- +set sv_jump 2 ^
- +set sv_crouch 2 ^
  -iwad DOOM2.WAD ^
  -file ^
   NERVE.WAD ^
@@ -14,9 +10,6 @@
   brutalrec\BD21LedgeGrabber.pk3 ^
   brutalrec\BD21LedgeGrabber_SMGPatch.pk3 ^
   ^
-  marcel\marcelus_hd_sprites.pk3 ^
-  ^
  -config .\Server.ini ^
  -host 4 ^
- -skill 4 ^
- -warp 1
+ -exec .\cjf.cfg
