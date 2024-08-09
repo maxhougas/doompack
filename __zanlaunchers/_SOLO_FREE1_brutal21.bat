@@ -1,8 +1,4 @@
 @start ..\zandronum\zandronum.exe 
- +set sv_sharekeys true ^
- +set sv_unblockplayers true ^
- +set sv_jump 2 ^
- +set sv_crouch 2 ^
  -iwad freedoom1.wad ^
  -file ^
   SIGIL\SIGIL_v1_21.wad ^
@@ -16,5 +12,6 @@
   brutalrec\DoomMetalVol5.wad ^
   SIGIL\SIGIL_SHREDS.wad ^
   ^
- -config .\Client.ini
+ -config .\Client.ini ^
+ -exec .\cjf.cfg
  
